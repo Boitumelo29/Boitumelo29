@@ -26,7 +26,7 @@
 
 ## 📊 My GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boitumelo29e&show_icons=true&theme=default)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Boitumelo29&show_icons=true&theme=default)
 
 ---
 
