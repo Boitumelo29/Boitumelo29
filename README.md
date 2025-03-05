@@ -36,7 +36,7 @@
 
 ---
 
-## Fun Facts 🤡  
+## Fun Facts 
 - 🏆 **Mentored students** at **AfriHack Hackathon** organized by Geekculture & Emparies  
 - 💡 Passionate about **bridging the tech gender gap** through **BGT & TumiJane Foundation**  
 - 🎤 **Spoke at Google Tech Talks** on **Flutter Tools & Libraries**  
