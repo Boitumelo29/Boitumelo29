@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/boitumelo-t-009b6314a)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)]([https://github.com/Boitumelo29])
-![Profile Visits](https://komarev.com/ghpvc/?username=Boitumelo29&color=blue)
+![Profile Visits](https://komarev.com/ghpvc/?username=Boitumelo29&color=green)
 
 <!-- [![Website](https://img.shields.io/badge/Website-blue?style=flat&logo=google-chrome)](https://stellar-starburst-58e910.netlify.app/)/-->
 
