@@ -15,7 +15,7 @@
 
 
 🎯 **In my free time**, I enjoy:  
-- 🚀 **Hackathons & Tech Events** (Organizer for **Google Developer Group Cape Town & BGT**)  
+- 🚀 **Hackathons & Tech Events** (Organizer for **Google Developer Group Cape Town & BGB**)  
 - 🧠 **Research & Writing** on **Digital Transformation, SMEs, AI in IT Service Management, and Digital Footprint Management**  
 - 📚 **Learning from Books, Podcasts, and Courses** in tech, leadership, and business  
 - ⚡ **Gym & Personal Growth** because balance is key!  
@@ -39,7 +39,7 @@
 
 ## Fun Facts 
 - 🏆 **Mentored students** at **AfriHack Hackathon** organized by Geekculture & Emparies  
-- 💡 Passionate about **bridging the tech gender gap** through **BGT & TumiJane Foundation**  
+- 💡 Passionate about **bridging the tech gender gap** through **BGB & TumiJane Foundation**  
 - 🎤 **Spoke at Google Tech Talks** on **Flutter Tools & Libraries**  
 - 🌱 Love **building apps that empower people**, including **digital footprint awareness solutions**  
 - 🎯 **Managed hackathons, workshops & tech events**, connecting developers & startups  
