@@ -6,12 +6,13 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/boitumelo-t-009b6314a)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)]([https://github.com/Boitumelo29])
-[![Website](https://img.shields.io/badge/Website-blue?style=flat&logo=google-chrome)](https://stellar-starburst-58e910.netlify.app/)
+<!-- [![Website](https://img.shields.io/badge/Website-blue?style=flat&logo=google-chrome)](https://stellar-starburst-58e910.netlify.app/)/-->
 
 
-🧠 **Currently learning**: Business Analysis, Process Optimization, Strategic Consulting, and Stakeholder Communication in my role as a **Business Analyst & Consultant** at VarsityBLOCK. Also, deepening my **Flutter** skills, problem-solving, and enterprise architecture (ArchiMate, TOGAF, DoDAF).  
+🧠 **Currently learning**: **Flutter, Dart, and Java**, while also honing my skills in **Business Analysis, Process Optimization, Strategic Consulting, and Stakeholder Communication** in my role as a **Business Analyst & Consultant** at VarsityBLOCK.  
 
 🔐 **On a daily basis**: Working with **Dart, Flutter, Firebase, Prisma, Node.js, and Bloc architecture**. Engaging in **mobile development, API design, and cloud solutions** while exploring **digital footprint awareness and online reputation management**.  
+
 
 🎯 **In my free time**, I enjoy:  
 - 🚀 **Hackathons & Tech Events** (Organizer for **Google Developer Group Cape Town & BGT**)  
