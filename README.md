@@ -10,7 +10,7 @@
 
 <!-- [![Website](https://img.shields.io/badge/Website-blue?style=flat&logo=google-chrome)](https://stellar-starburst-58e910.netlify.app/)/-->
 
-🧠 **Currently learning**: **Flutter, Dart, and Java**, while also honing my skills in **Business Analysis, Process Optimization, Strategic Consulting, and Stakeholder Communication** in my role as a **Business Analyst & Consultant** at VarsityBLOCK.  
+🧠 **Currently learning**: **Flutter, Dart, and Java**, while also betterig my skills in **Business Analysis, Process Optimization, Strategic Consulting, and Stakeholder Communication** in my role as a **Business Analyst & Consultant** at VarsityBLOCK.  
 
 ---
 
