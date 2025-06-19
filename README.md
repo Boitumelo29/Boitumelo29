@@ -9,7 +9,7 @@
 [![Website](https://img.shields.io/badge/Website-pink?style=flat&logo=google-chrome)](https://boitumelothobejaneport.netlify.app/)
 ![Profile Visits](https://komarev.com/ghpvc/?username=Boitumelo29&color=green)
 
-🧠 **Currently learning**: **Flutter, Dart, and Java**, while also betterig my skills in **Business Analysis, Process Optimization, Strategic Consulting, and Stakeholder Communication** in my role as a **Business Analyst & Consultant** at VarsityBLOCK.  
+🧠 **Currently learning**: **Flutter, Dart, and Java**, while also betterig my skills in **React**
 
 ---
 
@@ -33,8 +33,8 @@
 ## In my free time, I enjoy:  
 - 🚀 **Hackathons & Tech Events** (Organizer for **Google Developer Group Cape Town & BGB**)  
 - 🧠 **Research & Writing** on **Digital Transformation, SMEs, AI in IT Service Management, and Digital Footprint Management**  
-- 📚 **Learning from Books, Podcasts, and Courses** in tech, leadership, and business  
-- ⚡ **Gym & Personal Growth** because balance is key!  
+- 📚 **Learning from Books, Podcasts, and Courses** in tech.
+- ⚡ **Gym & Personal Growth**  
 - 🏆 **Mentoring & Community Building** through workshops and youth empowerment initiatives
 
 ## Fun Facts 
