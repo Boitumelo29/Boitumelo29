@@ -38,18 +38,18 @@
 🔐 **On a daily basis**: Working with **Dart, Flutter, Firebase, Prisma, Node.js, and Bloc architecture**. Engaging in **mobile development, API design, and cloud solutions** while exploring **digital footprint awareness and online reputation management**.  
 
 ## In my free time, I enjoy:  
-- 🚀 **Hackathons & Tech Events** (Organizer for **Google Developer Group Cape Town & BGB**)  
-- 🧠 **Research & Writing** on **Digital Transformation, SMEs, AI in IT Service Management, and Digital Footprint Management**  
-- 📚 **Learning from Books, Podcasts, and Courses** in tech.
-- ⚡ **Gym & Personal Growth**  
-- 🏆 **Mentoring & Community Building** through workshops and youth empowerment initiatives
+- **Hackathons & Tech Events** (Organizer for **Google Developer Group Cape Town & BGB**)  
+- **Research & Writing** on **Digital Transformation, SMEs, AI in IT Service Management, and Digital Footprint Management**  
+- **Learning from Books, Podcasts, and Courses** in tech.
+- **Gym & Personal Growth**  
+- **Mentoring & Community Building** through workshops and youth empowerment initiatives
 
 ## Fun Facts 
-- 🏆 **Mentored students** at **AfriHack Hackathon** organized by Geekculture & Emparies  
-- 💡 Passionate about **bridging the tech gender gap** through **BGB & TumiJane Foundation**  
-- 🎤 **Spoke at Google Tech Talks** on **Flutter Tools & Libraries**  
-- 🌱 Love **building apps that empower people**, including **digital footprint awareness solutions**  
-- 🎯 **Managed hackathons, workshops & tech events**, connecting developers & startups  
+- **Mentored students** at **AfriHack Hackathon** organized by Geekculture & Emparies  
+- Passionate about **bridging the tech gender gap** through **BGB & TumiJane Foundation**  
+- **Spoke at Google Tech Talks** on **Flutter Tools & Libraries**  
+- Love **building apps that empower people**, including **digital footprint awareness solutions**  
+- **Managed hackathons, workshops & tech events**, connecting developers & startups  
 
 ---
 
