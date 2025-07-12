@@ -1,5 +1,12 @@
 <h1 align="center">Boitumelo</h1>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Flutter+Developer;Tech+Educator+%26+Mentor;Building+With+Purpose" alt="Typing SVG" />
+  </a>
+</p>
+
+
 ---
 
 ## About Me 
