@@ -1,4 +1,4 @@
-<h1 align="center">Boitumelo</h1>
+<h1 align="center">Hi 👋, I'm Boitumelo</h1>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
